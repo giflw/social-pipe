@@ -1,13 +1,13 @@
 package com.itquasar.multiverse.socialpipe;
 
-import static org.junit.Assert.assertTrue;
-
 import org.junit.Test;
 
+import static org.junit.Assert.assertTrue;
+
 /**
- * Unit test for simple App.
+ * Unit test for simple SocialPipe.
  */
-public class AppTest 
+public class SocialPipeTest
 {
     /**
      * Rigorous Test :-)
